@@ -1,0 +1,14 @@
+{
+    "name": "prf/ArquetipoPHP",
+    "description": "Teste do openshift.",
+    "keywords": ["framework"],
+    "license": "PRF",
+    "authors": [{
+        "name": "Thyago Assunção",
+        "email": "thyago.brejao@gmail.com"
+    }],
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.1"
+    }
+}
